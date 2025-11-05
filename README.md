@@ -102,7 +102,7 @@ streamlit run app.py
 
 ## 📸 Demo
 You can try the demo version here (no training needed):  
-👉 **[Demo App (Streamlit-ready)](https://share.streamlit.io)** *(Upload your leaf image and see prediction results)*
+👉 **[Demo App (Streamlit-ready)]([https://share.streamlit.io](https://smart-tree-health-monitoring-using-computer-vision-case-study.streamlit.app/))** *(Upload your leaf image and see prediction results)*
 
 ---
 
