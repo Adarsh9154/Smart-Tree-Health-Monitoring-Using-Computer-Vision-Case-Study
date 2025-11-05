@@ -5,7 +5,7 @@ from PIL import Image, ImageFilter
 from io import BytesIO
 
 st.set_page_config(page_title="Smart Tree Health Demo", page_icon="🌿", layout="centered")
-st.title("🌿 Smart Tree Health Monitoring — Demo (No Trained Model Needed)")
+st.title("🌿 Smart Tree Health Monitoring — Demo ")
 st.write("Upload a leaf image to see a **demo prediction** using simple color/texture heuristics.")
 
 CLASSES = ["Healthy", "Bacterial_Blight", "Leaf_Spot", "Yellow_Virus"]
